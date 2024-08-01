@@ -8,9 +8,9 @@ Objective</br>
 The primary objective of this project was to create a responsive and engaging personal blog that highlights my experiences, knowledge, and achievements. The blog aims to attract readers and potential collaborators by providing valuable content and showcasing my expertise in AI, data science, and programming.
 
 Features</br>
-Responsive Design: Optimizes the viewing experience across desktops, tablets, and smartphones.
-Interactive Blog Posts: Features a collection of posts on topics like coding, problem-solving, and emerging technologies.
-Project Highlights: Showcases key projects with detailed descriptions and insights.
+Responsive Design: Optimizes the viewing experience across desktops, tablets, and smartphones.</br>
+Interactive Blog Posts: Features a collection of posts on topics like coding, problem-solving, and emerging technologies.</br>
+Project Highlights: Showcases key projects with detailed descriptions and insights.</br>
 
 Technologies Used</br>
 WordPress: The platform used to build and manage the blog, leveraging its powerful CMS capabilities.
